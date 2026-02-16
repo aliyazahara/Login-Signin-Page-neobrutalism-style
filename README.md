@@ -1,21 +1,20 @@
 # ⚡ Neobrutalism Login & Sign Up Page
 
-Sebuah proyek antarmuka autentikasi modern dengan gaya **Neobrutalism** yang berani, dikembangkan menggunakan HTML, CSS, dan JavaScript murni. Proyek ini menonjolkan transisi dinamis antar kartu dengan efek *blur* dan pergeseran vertikal.
+Halaman Login dan Sign Up dengan tema Neobrutalism. Dibuat menggunakan HTML, CSS, dan JavaScript. Fokus utama proyek ini adalah pada transisi antar halaman yang menggunakan efek pergeseran kartu dan sedikit blur agar terlihat lebih interaktif.
 
 ## 🚀 Live Demo
-Lihat hasilnya di sini: [https://neobrutal-login-page.vercel.app/]
+Link Aktif: [https://neobrutal-login-page.vercel.app/]
 
 ## ✨ Fitur Utama
-* **Desain Neobrutalism**: Menggunakan shadow yang tegas, border tebal, dan warna kontras.
-* **Smooth Transitions**: Perpindahan antara Login dan Sign Up menggunakan animasi `cubic-bezier` yang kenyal dan efek `blur`.
-* **Fully Responsive**: Tampilan tetap terjaga di tengah layar pada berbagai perangkat berkat *Flexbox layout*.
-* **Interactive Hover**: Efek hover tombol yang unik dengan pergeseran bayangan ke arah kiri atas.
+* **Desain Neobrutalism**.
+* **Smooth Transitions** antara Login dan Sign Up menggunakan animasi geser dan blur.
+* **Fully Responsive**.
+* **Interactive Hover**
 
 ## 🛠️ Tech Stack
-* **HTML5**: Struktur semantik untuk form autentikasi.
-* **CSS3**: Custom gradients (Teal #005F60), Dot pattern background, dan Keyframe animations.
-* **JavaScript**: Manipulasi DOM untuk logika perpindahan antar kartu.
-* **Font**: [Public Sans](https://fonts.google.com/specimen/Public+Sans) (600 weight).
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 
 ## 📸 Tampilan Proyek
 ![Preview Login](https://github.com/aliyazahara/Login-Signin-Page-neobrutalism-style/raw/main/preview.png)
