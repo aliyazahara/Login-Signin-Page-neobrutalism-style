@@ -9,15 +9,12 @@ Link Aktif: [https://neobrutal-login-page.vercel.app/]
 * **Desain Neobrutalism**.
 * **Smooth Transitions** antara Login dan Sign Up menggunakan animasi geser dan blur.
 * **Fully Responsive**.
-* **Interactive Hover**
+* **Interactive Hover**.
 
 ## 🛠️ Tech Stack
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-
-## 📸 Tampilan Proyek
-![Preview Login](https://github.com/aliyazahara/Login-Signin-Page-neobrutalism-style/raw/main/preview.png)
+* **HTML5**.
+* **CSS3**.
+* **JavaScript**.
 
 ## 📖 Cara Penggunaan
 1. Clone repositori ini:
